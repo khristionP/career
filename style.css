@@ -1,0 +1,112 @@
+.uni {
+	color: white;
+	font-size: 60px;
+	border: 5px solid white;
+	text-align: center;
+	padding: 15px;
+	margin-bottom: 100px;
+}
+
+body {
+	font-family: 'Staatliches', cursive;
+}
+
+.top {
+	background-image: url(https://tennessee.edu/wp-content/uploads/2016/07/utk-ayers-header.jpg);
+	height:75vh;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+	padding: 20px;
+	margin-bottom: 0px;
+}
+
+.locationn {
+	color: black;
+	font-size: 55px;
+	border: 5px solid black;
+	text-align: center;
+	padding: 15px;
+}
+
+.where {
+	
+	padding: 15px;
+}
+
+.middle {
+	color: black;
+	font-size: 50px;
+	border: 5px solid black;
+	text-align: center;
+	padding: 15px;
+	background-color: white;
+}
+
+.what {
+
+}
+
+.word li, .money li {
+	font-size: 25px;
+	color: black;
+}
+
+.stuff {
+	color: black;
+	font-size: 50px;
+	border: 5px solid black;
+	text-align: center;
+	padding: 25px;
+	margin-bottom: 100px;
+	background-color: darkorange;
+}
+.degree {
+	color: black;
+	font-size: 50px;
+	text-align: center;
+	padding: 50px;
+	margin-bottom: 50px;
+}
+
+.bottom {
+	background-image: url(https://utsports.com/images/2018/10/31/212319_20180922_FB_Florida_AT_005.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100vh;
+	position: relative;
+}
+.overlay {
+	background-color: #fff;
+	opacity: .1;
+	position: absolute;
+	top: 0;
+	right: 0;
+	left: 0;
+	bottom: 0;
+}
+
+.money {
+	padding: 25px;
+	margin-bottom: 50px;
+}
+
+.com {
+	background-image: url(https://wilsoncgrp.com/wp-content/uploads/2017/08/The-Need-for-Cybersecurity-Policies-1200x450-1200x450.jpg);
+	height:75vh;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+	padding: 20px;
+	margin-bottom: 0px;
+}
+
+.last {
+	background-image: url(https://wilsoncgrp.com/wp-content/uploads/2017/08/The-Need-for-Cybersecurity-Policies-1200x450-1200x450.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100vh;
+	position: relative;
+}
